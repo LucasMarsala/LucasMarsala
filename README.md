@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marsala Lucas</h1>
 <h3 align="center">A developer passionate in cybersecurity and devops.</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMarsala&theme=dark&show_icons=true)
+
 - 🔭 I’m currently working on [docker](https://github.com/LucasMarsala/T-DOP-600)
 
 <h3 align="left">Connect with me:</h3>
