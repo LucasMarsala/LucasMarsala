@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marsala Lucas</h1>
 <h3 align="center">A developer passionate about teaching programming, cybersecurity and devops.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMarsala&theme=dark&show_icons=true)
-![Most Used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasMarsala&theme=tokyonight&layout=compact)
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LucasMarsala&theme=dark&show_icons=true" height="200px">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasMarsala&theme=tokyonight&layout=compact" height="200px">
+</div>
 
                             &&&@@@@@@&&&&&&&                                                            
                           &BPPPGGGBBP5PGGGGGGB#&                                                        
