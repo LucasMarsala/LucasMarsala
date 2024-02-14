@@ -2,7 +2,6 @@
 <h3 align="center">A developer passionate about teaching programming, cybersecurity and devops.</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LucasMarsala&theme=dark&show_icons=true" height="200px">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasMarsala&theme=tokyonight&layout=compact" height="200px">
 
 <h3 align="left">Connect with me:</h3>
