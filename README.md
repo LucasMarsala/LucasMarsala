@@ -10,10 +10,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,html,css,bootstrap,wordpress,javascript,nodejs,c,cpp,python,php,flutter,dart,postgresql,mysql,bash,docker,kubernetes,jenkins,atom,photoshop,illustrator,linux,linkedin,cmake,emacs,md," />
-  </a>
-</p>
